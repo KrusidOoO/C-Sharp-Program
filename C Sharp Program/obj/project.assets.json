@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\GitHub\\C# program\\C Sharp Program\\C Sharp Program.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\GitHub\\C-Sharp-Program\\C Sharp Program\\C Sharp Program.csproj",
       "projectName": "C Sharp Program",
-      "projectPath": "C:\\Users\\Bruger\\Desktop\\GitHub\\C# program\\C Sharp Program\\C Sharp Program.csproj",
+      "projectPath": "C:\\Users\\Bruger\\Desktop\\GitHub\\C-Sharp-Program\\C Sharp Program\\C Sharp Program.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\Desktop\\GitHub\\C# program\\C Sharp Program\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\Desktop\\GitHub\\C-Sharp-Program\\C Sharp Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

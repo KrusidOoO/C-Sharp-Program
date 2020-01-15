@@ -1,0 +1,11 @@
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\bin\Debug\netcoreapp3.1\C Sharp Program.exe
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\bin\Debug\netcoreapp3.1\C Sharp Program.deps.json
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\bin\Debug\netcoreapp3.1\C Sharp Program.runtimeconfig.json
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\bin\Debug\netcoreapp3.1\C Sharp Program.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\bin\Debug\netcoreapp3.1\C Sharp Program.dll
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\bin\Debug\netcoreapp3.1\C Sharp Program.pdb
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\obj\Debug\netcoreapp3.1\C Sharp Program.csprojAssemblyReference.cache
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\obj\Debug\netcoreapp3.1\C Sharp Program.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\obj\Debug\netcoreapp3.1\C Sharp Program.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\obj\Debug\netcoreapp3.1\C Sharp Program.dll
+C:\Users\Bruger\Desktop\GitHub\C-Sharp-Program\C Sharp Program\obj\Debug\netcoreapp3.1\C Sharp Program.pdb
